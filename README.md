@@ -31,7 +31,7 @@ Noter Access Key ID og Secret Access Key. Disse skal legges inn som Repo secrets
 
 * Lag en fork av dette repoet
 * Sjekk ut din fork i Cloud9 miljøet ditt med "git clone ...."
-* Legg til "repository secrets", verdier gis i klasserommet. Dette gjorde vi i øving 5. Hvis du trenger repetisjon, sjekk her; <https://github.com/PGR301-2021/05-cd-apprunner-with-docker#gi-github-actions-tilgang-til-n%C3%B8kler>
+* Legg til "repository secrets". Verdiene fikk du i steget over. Dette gjorde vi også i øving 5. Hvis du trenger repetisjon, sjekk her; <https://github.com/PGR301-2021/05-cd-apprunner-with-docker#gi-github-actions-tilgang-til-n%C3%B8kler>
 
 
 
