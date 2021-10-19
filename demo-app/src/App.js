@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> DevOpsForEverALways ! hilsen Daniel
+          Edit <code>src/App.js</code> DevOpsForEverALways ! Nå funker alt, hilsen Daniel
         </p>
         <a
           className="App-link"
