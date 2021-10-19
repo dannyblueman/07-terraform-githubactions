@@ -1,4 +1,4 @@
 variable "studentnavn" {
-    type = string
-    default = "danib"
+  type    = string
+  default = "danib"
 }
